@@ -1,25 +1,28 @@
 # Student Performance Analysis 📊
 
-## Overview
-This project analyzes student marks data using Python and Pandas.
+## 📌 Project Overview
+This project analyzes student marks using Python and Pandas.
+It calculates:
+- Average marks
+- Number of passing students
+- Top scorer
 
-## Dataset
-The dataset contains:
-- Student names
-- Marks obtained
-
-## Tools & Technologies
+## 🛠 Tools Used
 - Python
 - Pandas
-- Matplotlib
 - Jupyter Notebook
 
-## Tasks Performed
-- Loaded CSV file
-- Calculated average marks
-- Displayed student performance
+## 📂 Dataset
+- students.csv  
+  Contains student names and marks.
 
-## What I Learned
-- How to use Pandas for data analysis
-- How to work with CSV files
-- How to upload a data science project on GitHub
+## 📈 Analysis Performed
+- Calculated average marks
+- Identified students scoring above 75
+- Found the top-scoring student
+
+## 🚀 Result
+The analysis helps understand overall student performance using basic data analysis techniques.
+
+## 👩‍💻 Author
+**Mansi Mandlik**
