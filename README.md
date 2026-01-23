@@ -21,6 +21,11 @@ It calculates:
 - Identified students scoring above 75
 - Found the top-scoring student
 
+## 🔍 Key Insights
+- Average marks are around 74
+- 4 students scored above 75
+- Aditi is the top scorer
+
 ## 🚀 Result
 The analysis helps understand overall student performance using basic data analysis techniques.
 
